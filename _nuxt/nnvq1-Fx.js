@@ -1,0 +1,1 @@
+import{d as a,f as o,w as n,aI as r}from"./1NDXKr53.js";const i=a({__name:"wishlist",async setup(_){let e,t;const{toQueryRoute:s}=o();return[e,t]=n(()=>r(s("/"),{replace:!0})),await e,t(),()=>{}}});export{i as default};
